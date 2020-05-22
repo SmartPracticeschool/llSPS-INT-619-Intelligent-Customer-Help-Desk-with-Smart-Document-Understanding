@@ -25,4 +25,4 @@ This flow basically summarizes the project. It begins with :
 5. This action will further pass onto to Watson Discovery and return with appropriate solution.
 
 Here is the demonstration video.
-https://youtu.be/https://youtu.be/djvvia11yDU
+https://youtu.be/djvvia11yDU
