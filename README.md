@@ -26,3 +26,5 @@ This flow basically summarizes the project. It begins with :
 
 Here is the demonstration video.
 https://youtu.be/djvvia11yDU
+
+This is the url of the Chatbot UI :https://node-red-izhlf.eu-gb.mybluemix.net/ui/#!/0?socketid=CPJTqpGKkCOFEFIsAAAT
